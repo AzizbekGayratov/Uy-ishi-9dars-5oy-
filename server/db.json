@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Barberton Daisy",
+            "price": "119.00",
+            "img": "https://m.media-amazon.com/images/I/41bB+QagWBL._SL500_.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Angel Wing Begonia",
+            "price": "169.00",
+            "img": "https://www.wineflowers.com/images/yucca_grande.jpg"
+        },
+        {
+            "id": "3",
+            "name": "African Violet",
+            "price": "199.00",
+            "img": "https://www.ikea.com/se/en/images/products/monstera-potted-plant-swiss-cheese-plant__0653991_pe708220_s5.jpg?f=xxs"
+        },
+        {
+            "id": "4",
+            "name": "Beach Spider Lily",
+            "price": "129.00",
+            "img": "https://i.pinimg.com/474x/bc/8b/9c/bc8b9c757defa1d41f233ddea1938508.jpg"
+        }
+    ]
+}
